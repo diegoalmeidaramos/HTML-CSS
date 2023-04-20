@@ -19,18 +19,19 @@ body{
     background: black url(../imagens/back-phone.jpg) no-repeat;
     background-size: cover;
     background-position: center center;
-    padding-left: 20px;
-    padding-right: 20px;
-    
 }
 
 main{
     background-color: rgba(255, 255, 255, 0.842);
     width: 400px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
     margin: auto;
     border-radius: 10px;
-    padding: 10px;
-    margin-top: 20px;
+    margin-top: 20px
+   
+    
 }
 
 h1{
