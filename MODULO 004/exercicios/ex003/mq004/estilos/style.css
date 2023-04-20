@@ -23,15 +23,11 @@ body{
 
 main{
     background-color: rgba(255, 255, 255, 0.842);
-    width: 400px;
-    padding-left: 20px;
-    padding-right: 20px;
+    width: 70vw;
     padding-top: 20px;
     margin: auto;
     border-radius: 10px;
-    margin-top: 20px
-   
-    
+    margin-top: 20px;
 }
 
 h1{
