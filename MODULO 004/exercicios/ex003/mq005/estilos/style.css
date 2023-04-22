@@ -56,7 +56,7 @@ header{
  
  main{
     background-color: white;
-    width: 60vw;
+    width: 70vw;
     padding: 20px;
     margin: auto;
     margin-top: 20px;
@@ -65,9 +65,11 @@ header{
 
  main>article> h2{
     padding-bottom: 20px;
+    text-align: center;
  }
  main >article>p{
     text-align: justify;
     text-indent: 20px;
     margin-bottom: 10px;
+    
  }
