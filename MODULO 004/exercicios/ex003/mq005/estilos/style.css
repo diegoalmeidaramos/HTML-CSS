@@ -17,10 +17,23 @@ header{
     text-align: center;
     text-shadow: 2px 2px 0px rgba(139, 0, 0, 0.329);
     padding-top: 10px;
+    padding-bottom: 10px;
     color: whitesmoke;
  }
+
+ i#burguer{
+   background-color: rgba(51, 3, 3, 0.26);
+   padding: 10px;
+   display: block;
+   text-align: center;
+   cursor: pointer;
+ }
+ i#burguer:hover{
+   background-color: white;
+   color: black;
+ }
  menu{
-    display: block;
+    display: none;
  }
  menu >ul{
     list-style-type: none;
